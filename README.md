@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Menezes-Gus
-- 👀 I’m interested in jrpgs, documentaries, history
-- 🌱 I’m currently learning statistics
-- 💞️ I’m looking to collaborate on data science projects
+- 👋 Hi, I’m Gustavo
+- 👀 I’m interested in econometrics, history, data science and jrpgs
+- 🌱 I’m currently learning linear algebra
+- 💞️ I’m looking to collaborate on econometrics and data science projects
 - 📫 You can reach me via e-mail: menezesgus@outlook.com
 
 <!---
