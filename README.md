@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhscjhdvds
+- 👋 Hi, I’m @Menezes-Gus
 - 👀 I’m interested in jrpgs, documentaries, history
 - 🌱 I’m currently learning statistics
 - 💞️ I’m looking to collaborate on data science projects
